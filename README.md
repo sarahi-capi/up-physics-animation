@@ -1,12 +1,10 @@
 # Audio-Driven Physics: "Married Life" Animation 🎈🏠
 
-<p align="center">
-  <a href="https://www.behance.net/gallery/244496707/Married-Life">
-    <img src="" alt="Click to watch full video with sound" width="600" style="border-radius: 10px;">
-  </a>
-  <br>
-  <i>(Click the video above to watch the full animation with audio!)</i>
-</p>
+<div align="center">
+
+https://github.com/user-attachments/assets/ba1f4856-3ba2-41ae-aa34-73bf476fde09
+
+</div>
 
 ## The Concept ✨
 The goal of this project was to test my foundational animation skills and understanding of Blender's physics engine. I choreographed a bouncing ball to perfectly match the tempo and emotional beats of "Married Life," surrounded by 3D recreations of significant objects from the film. 
